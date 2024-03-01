@@ -1,0 +1,18 @@
+/* styles.css */
+header {
+    background-color: #50D683; /* Color de fondo del encabezado */
+    padding: 40px; /* Espaciado interno del encabezado */
+    text-align: center; /* Alinear el texto al centro */
+}
+
+h1 {
+    color: #64F51C; /* Color del texto */
+    font-size: 46px; /* Tamaño de la fuente del título */
+    margin: 0; /* Eliminar el margen predeterminado del h1 */
+}
+p{
+    color:crimson;
+    font-size: 100;
+    margin:10;
+}
+
